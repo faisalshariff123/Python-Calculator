@@ -8,7 +8,7 @@ This is a simple calculator application built using Python and the Tkinter libra
 - Input multiple numbers for addition and subtraction using delimiters
 - Clear the result and entry fields
 - User-friendly interface
-- 
+  
 ## How to Use
 - Enter numbers in the input box, using the appropriate operator (+, -, *, or /) to separate them.
 - Click the corresponding operation button to perform the calculation.
