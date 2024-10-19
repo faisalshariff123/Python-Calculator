@@ -15,7 +15,7 @@ This is a simple calculator application built using Python and the Tkinter libra
 - The result will be displayed in the answer list below the input field.
 - Use the "Clear Answer Box" button to clear the results, or "Clear Entry Box" to reset the input field.
 
-##Example
+## Example
 
 To add two numbers: 5 + 10, enter 5 + 10 and click the + button. The result 15.0 will be displayed in the answer list.
 	•	To subtract: 10 - 5, enter 10 - 5 and click the - button. The result 5.0 will be displayed.
