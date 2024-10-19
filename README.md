@@ -24,10 +24,4 @@ To run this project, you need:
 - Python 3.x
 - Tkinter (included with most Python installations)
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone <your-repo-url>
-   cd <your-project-folder>
 
-2. python calculator.py
